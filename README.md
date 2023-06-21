@@ -6,10 +6,16 @@ Instacart marketing team.  I used the data to create different customer profiles
 when they shopped and what they shopped for.  
 
 We were provided with four datasets that combied contained all te customer information.  After wrangling, cleaning and checking for inconsistencies within the datasets, I merged them into one complete dataframe for
-further analysis.  Additional columns were added in order to determine specific ordering frequencies and patterns.  The basket analysis was separated into five folders: Project Management, Data, SCripts, Analysis 
-and sent to client.
+further analysis.  Additional columns were added in order to determine specific ordering frequencies and patterns.  
+
+The basket analysis was separated into five folders: Project Management, Data, SCripts, Analysis and sent to client.
+
 Project Management: Contains the Project Brief
+
 Data: Separated into Original and Prepared Data.  These contain the original dataframes and the dataframes after they have been cleaned and prepared for analysis respectively.
+
 Scripts: Contains all the Python coding involved for the entire analysis process
+
 Analysis: Contains the Visualizations used for developing insights and presenting on the final report
+
 Sent To Client: Contains the Final Report
