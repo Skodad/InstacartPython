@@ -1,4 +1,4 @@
-# SkodaPython
+# InstacartPython
 Repository for Instacart Analysis
 This project focused on the online grocery store Instacart.  The goal was to uncover more information about the sales patterns of their existing client base.  Instacart wanted to apply a targeted marketing strategy
 by using different marketing campaigns to target specific customer demographics.  My task was to perform an inital data and exploratory analysis of their data to develop insights and provide strategies to the 
