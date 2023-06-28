@@ -1,4 +1,4 @@
-# InstacartPython ![alt text](https://branditechture.agency/brand-logos/download/instacart/)
+# InstacartPython 
 This project focused on the online grocery store Instacart.  The goal was to uncover more information about the sales patterns of their existing client base.  Instacart wanted to apply a targeted marketing strategy by using different marketing campaigns to target specific customer demographics.  
 ## Objective
 The primary objective was to perform an inital data and exploratory analysis of their data to develop insights and recommend strategies to the 
